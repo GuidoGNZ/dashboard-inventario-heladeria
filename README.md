@@ -80,4 +80,4 @@ El proyecto está compuesto por tres hojas interactivas:
 Data Analyst Jr. | Power BI · Excel · SQL  
 Experiencia en logística, control de stock y gestión de inventarios en industria alimenticia  
 
-[LinkedIn](https://linkedin.com/in/guido-gonzalez) · [gonzalezguidolujan@gmail.com](mailto:gonzalezguidolujan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guido-gonzalez-/) · [gonzalezguidolujan@gmail.com](mailto:gonzalezguidolujan@gmail.com)
