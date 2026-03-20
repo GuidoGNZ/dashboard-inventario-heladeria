@@ -78,6 +78,6 @@ El proyecto está compuesto por tres hojas interactivas:
 
 **Guido Maximiliano González**  
 Data Analyst Jr. | Power BI · Excel · SQL  
-Experiencia en logística, control de stock y gestión de inventarios en industria alimenticia  
+Experiencia en logística, control de stock y gestión de inventarios en industria alimenticia .
 
 [LinkedIn](https://www.linkedin.com/in/guido-gonzalez-/) · [gonzalezguidolujan@gmail.com](mailto:gonzalezguidolujan@gmail.com)
